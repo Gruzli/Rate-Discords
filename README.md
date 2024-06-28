@@ -1,1 +1,1 @@
-# Rate-Discord
+# Rate-Discords
